@@ -1,1 +1,5 @@
-
+#include<stdio.h>
+main()
+{ 
+ printf("first editing in the file");
+ }
